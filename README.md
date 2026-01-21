@@ -6,7 +6,7 @@ O sistema realiza o monitoramento contínuo de temperatura e umidade, utilizando
 
 ---
 
-## 📘 Informações Acadêmicas
+## Informações Acadêmicas
 
 - Disciplina: Microprocessadores  
 - Professor: Boanerges Almeida  
@@ -23,7 +23,7 @@ O sistema realiza o monitoramento contínuo de temperatura e umidade, utilizando
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver um sistema de monitoramento térmico em tempo real capaz de:
 
@@ -36,7 +36,7 @@ O sistema é voltado para ambientes críticos, como câmaras frias, hospitais, U
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Microprocessadores e sistemas embarcados  
 - Sensores de temperatura e umidade  
@@ -47,7 +47,7 @@ O sistema é voltado para ambientes críticos, como câmaras frias, hospitais, U
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Hardware
 - Arduino Uno (ATmega328P)  
@@ -67,7 +67,7 @@ O sistema é voltado para ambientes críticos, como câmaras frias, hospitais, U
 
 ---
 
-## 🧩 Arquitetura do Sistema
+## Arquitetura do Sistema
 
 Sensor DHT11  
 ↓  
@@ -81,7 +81,7 @@ O Arduino realiza a leitura dos sensores, o Python processa os dados e toma deci
 
 ---
 
-## ⚙️ Funcionamento do Sistema
+## Funcionamento do Sistema
 
 1. O Arduino lê temperatura e umidade do sensor DHT11  
 2. O usuário ajusta o setpoint utilizando um controle IR  
@@ -95,7 +95,7 @@ O Arduino realiza a leitura dos sensores, o Python processa os dados e toma deci
 
 ---
 
-## 🧪 Metodologia
+## Metodologia
 
 O desenvolvimento do projeto foi dividido nas seguintes etapas:
 
@@ -107,7 +107,7 @@ O desenvolvimento do projeto foi dividido nas seguintes etapas:
 
 ---
 
-## 📊 Resultados Obtidos
+## Resultados Obtidos
 
 - Leitura contínua e estável da temperatura  
 - Alertas enviados em frações de segundo  
@@ -116,7 +116,7 @@ O desenvolvimento do projeto foi dividido nas seguintes etapas:
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 monitoramento-temperatura-arduino/  
 ├── README.md  
@@ -131,7 +131,7 @@ monitoramento-temperatura-arduino/
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 O projeto demonstrou, na prática, a integração entre microprocessadores, sensores e aplicações modernas baseadas em software.
 
@@ -139,6 +139,6 @@ Com baixo custo e tecnologias acessíveis, foi possível implementar um sistema 
 
 ---
 
-## 🚀 Observações Finais
+## Observações Finais
 
 Este repositório possui finalidade exclusivamente acadêmica e documenta todas as etapas do desenvolvimento do projeto.
